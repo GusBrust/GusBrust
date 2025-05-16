@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GusBrust
 - 👀 I’m interested in Learning, programming, and games.
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript and other things.
+- 👨‍🎓 I'm studiyng Computer Science at UBI.
+- 🌱 I’m currently learning Python, Go, Networking and much more things.
 - 📫 How to reach me at
 - <a href=https://www.linkedin.com/in/gustavo-brust/>Linkedin profile</a>
 
